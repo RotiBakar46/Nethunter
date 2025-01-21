@@ -26,7 +26,7 @@ def menu():
     contoh = input(" pilih 》 Loding...")
     if contoh == "1" :
        kenalan = input("        My Name Roti Bakar ")
-       print("                Salam kenal Dari Roti ")
+       print("                Salam kenal Dari Roti Bakar ")
        print("==============================================================================")
     elif contoh == "2" :
        os.system(" pkg install update && upgrade -y")
@@ -38,7 +38,7 @@ def menu():
        os.system(" pkg install figlet -y")
        os.system(" pkg install wgit -y")
        os.system(" pkg install nethunter -y")
-       print("\033[1;32m============================================================")
+       print("\033[1;32m==================================================================")
     elif contoh =="3" :
          os.system(" pkg install update -y")
          os.system(" pkg install upgrade -y")
@@ -50,7 +50,7 @@ def menu():
          
          menu()
          
-        
+    
       
         
          
